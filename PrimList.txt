@@ -1,0 +1,297 @@
+Krawedz 0:
+0 - 60
+| cost = 5
+Krawedz 1:
+60 - 22
+| cost = 3
+Krawedz 2:
+22 - 87
+| cost = 2
+Krawedz 3:
+87 - 34
+| cost = 2
+Krawedz 4:
+34 - 24
+| cost = 2
+Krawedz 5:
+24 - 92
+| cost = 1
+Krawedz 6:
+24 - 42
+| cost = 2
+Krawedz 7:
+22 - 59
+| cost = 3
+Krawedz 8:
+59 - 35
+| cost = 1
+Krawedz 9:
+35 - 68
+| cost = 1
+Krawedz 10:
+35 - 18
+| cost = 2
+Krawedz 11:
+18 - 75
+| cost = 1
+Krawedz 12:
+75 - 56
+| cost = 1
+Krawedz 13:
+35 - 37
+| cost = 2
+Krawedz 14:
+37 - 51
+| cost = 2
+Krawedz 15:
+51 - 63
+| cost = 1
+Krawedz 16:
+63 - 40
+| cost = 1
+Krawedz 17:
+40 - 93
+| cost = 2
+Krawedz 18:
+93 - 69
+| cost = 1
+Krawedz 19:
+56 - 11
+| cost = 2
+Krawedz 20:
+11 - 9
+| cost = 1
+Krawedz 21:
+11 - 14
+| cost = 2
+Krawedz 22:
+14 - 29
+| cost = 1
+Krawedz 23:
+11 - 52
+| cost = 2
+Krawedz 24:
+52 - 49
+| cost = 1
+Krawedz 25:
+49 - 79
+| cost = 1
+Krawedz 26:
+11 - 76
+| cost = 2
+Krawedz 27:
+11 - 80
+| cost = 2
+Krawedz 28:
+11 - 94
+| cost = 2
+Krawedz 29:
+14 - 50
+| cost = 2
+Krawedz 30:
+50 - 17
+| cost = 1
+Krawedz 31:
+14 - 53
+| cost = 2
+Krawedz 32:
+53 - 36
+| cost = 1
+Krawedz 33:
+36 - 65
+| cost = 1
+Krawedz 34:
+53 - 55
+| cost = 1
+Krawedz 35:
+29 - 7
+| cost = 2
+Krawedz 36:
+7 - 47
+| cost = 2
+Krawedz 37:
+29 - 8
+| cost = 2
+Krawedz 38:
+47 - 85
+| cost = 2
+Krawedz 39:
+52 - 58
+| cost = 2
+Krawedz 40:
+59 - 12
+| cost = 2
+Krawedz 41:
+12 - 16
+| cost = 1
+Krawedz 42:
+12 - 43
+| cost = 1
+Krawedz 43:
+16 - 89
+| cost = 1
+Krawedz 44:
+89 - 86
+| cost = 1
+Krawedz 45:
+12 - 71
+| cost = 2
+Krawedz 46:
+43 - 10
+| cost = 2
+Krawedz 47:
+10 - 91
+| cost = 2
+Krawedz 48:
+91 - 67
+| cost = 1
+Krawedz 49:
+67 - 61
+| cost = 1
+Krawedz 50:
+43 - 20
+| cost = 2
+Krawedz 51:
+20 - 41
+| cost = 2
+Krawedz 52:
+61 - 25
+| cost = 2
+Krawedz 53:
+25 - 1
+| cost = 1
+Krawedz 54:
+25 - 3
+| cost = 2
+Krawedz 55:
+3 - 45
+| cost = 1
+Krawedz 56:
+3 - 72
+| cost = 1
+Krawedz 57:
+72 - 26
+| cost = 1
+Krawedz 58:
+26 - 19
+| cost = 1
+Krawedz 59:
+25 - 30
+| cost = 2
+Krawedz 60:
+30 - 4
+| cost = 1
+Krawedz 61:
+4 - 27
+| cost = 1
+Krawedz 62:
+27 - 57
+| cost = 1
+Krawedz 63:
+27 - 84
+| cost = 1
+Krawedz 64:
+30 - 74
+| cost = 2
+Krawedz 65:
+61 - 33
+| cost = 2
+Krawedz 66:
+33 - 78
+| cost = 2
+Krawedz 67:
+68 - 96
+| cost = 2
+Krawedz 68:
+75 - 13
+| cost = 2
+Krawedz 69:
+75 - 44
+| cost = 2
+Krawedz 70:
+78 - 73
+| cost = 2
+Krawedz 71:
+80 - 2
+| cost = 2
+Krawedz 72:
+84 - 15
+| cost = 2
+Krawedz 73:
+89 - 32
+| cost = 2
+Krawedz 74:
+91 - 82
+| cost = 2
+Krawedz 75:
+82 - 66
+| cost = 1
+Krawedz 76:
+96 - 64
+| cost = 2
+Krawedz 77:
+3 - 39
+| cost = 3
+Krawedz 78:
+10 - 31
+| cost = 3
+Krawedz 79:
+14 - 83
+| cost = 3
+Krawedz 80:
+15 - 62
+| cost = 3
+Krawedz 81:
+62 - 88
+| cost = 1
+Krawedz 82:
+88 - 70
+| cost = 2
+Krawedz 83:
+50 - 5
+| cost = 3
+Krawedz 84:
+53 - 97
+| cost = 3
+Krawedz 85:
+97 - 46
+| cost = 1
+Krawedz 86:
+55 - 21
+| cost = 3
+Krawedz 87:
+63 - 81
+| cost = 3
+Krawedz 88:
+69 - 48
+| cost = 3
+Krawedz 89:
+76 - 38
+| cost = 3
+Krawedz 90:
+38 - 95
+| cost = 1
+Krawedz 91:
+95 - 23
+| cost = 2
+Krawedz 92:
+23 - 98
+| cost = 2
+Krawedz 93:
+87 - 54
+| cost = 3
+Krawedz 94:
+20 - 28
+| cost = 4
+Krawedz 95:
+66 - 90
+| cost = 4
+Krawedz 96:
+7 - 6
+| cost = 8
+Krawedz 97:
+61 - 77
+| cost = 8
+Krawedz 98:
+3 - 99
+| cost = 43
