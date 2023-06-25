@@ -1,0 +1,3 @@
+C:/Users/Joanna/Desktop/4 semestr/SDiZO-2/CMakeFiles/cmake.dir
+C:/Users/Joanna/Desktop/4 semestr/SDiZO-2/CMakeFiles/edit_cache.dir
+C:/Users/Joanna/Desktop/4 semestr/SDiZO-2/CMakeFiles/rebuild_cache.dir

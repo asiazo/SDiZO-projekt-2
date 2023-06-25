@@ -1,0 +1,3 @@
+C:/Users/Joanna/Desktop/4 semestr/SDiZO2/cmake-build-debug/CMakeFiles/cmake.dir
+C:/Users/Joanna/Desktop/4 semestr/SDiZO2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joanna/Desktop/4 semestr/SDiZO2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

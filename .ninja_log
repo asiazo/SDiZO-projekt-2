@@ -1,0 +1,22 @@
+# ninja log v5
+11	1613	7091700961495221	CMakeFiles/cmake.dir/Menu/Main.cpp.obj	71dc38bf0111d71a
+21	1704	7093413153946976	CMakeFiles/cmake.dir/Time/AutomaticTest.cpp.obj	43f6a361fca15cec
+1704	3522	7093413172189092	CMakeFiles/cmake.dir/Algorithms/BellmanFord.cpp.obj	f9929891d94517d8
+9	1092	7093368466000484	CMakeFiles/cmake.dir/Graph/GraphMatrix.cpp.obj	b9bec2681a02d4f5
+3353	4782	7089868173004605	CMakeFiles/cmake.dir/Time/Time.cpp.obj	1aa6dd1499c7f4b7
+4783	5044	7089868175314461	CMakeFiles/cmake.dir/Algorithms/Join.cpp.obj	e4ce293d90ecfe2a
+7	908	7093413567297755	CMakeFiles/cmake.dir/Graph/GraphList.cpp.obj	2b13822c3e0da23f
+11	4706	7093413184037139	CMakeFiles/cmake.dir/Menu/MST.cpp.obj	d47590fe6b7efaf3
+1637	3264	7093413169522768	CMakeFiles/cmake.dir/Algorithms/Dijkstra.cpp.obj	ba79f636605852ac
+3523	4919	7093413186119620	CMakeFiles/cmake.dir/Algorithms/Prim.cpp.obj	dfd0795b2e7523a
+3264	4850	7093413185289553	CMakeFiles/cmake.dir/Algorithms/Kruskal.cpp.obj	412b7c2460b15177
+4707	7249	7093413209488019	CMakeFiles/cmake.dir/Menu/ShortestPathMenu.cpp.obj	1efa136b6a02bd99
+909	1218	7093413570374148	cmake.exe	da80090fa03b1d76
+10	1415	7093424315352466	CMakeFiles/cmake.dir/Graph/GraphList.cpp.obj	2b13822c3e0da23f
+22	1486	7093424316107647	CMakeFiles/cmake.dir/Time/AutomaticTest.cpp.obj	43f6a361fca15cec
+1486	1834	7093424319501058	cmake.exe	da80090fa03b1d76
+8	1258	7093427164859477	CMakeFiles/cmake.dir/Graph/GraphList.cpp.obj	2b13822c3e0da23f
+20	1302	7093427165393067	CMakeFiles/cmake.dir/Time/AutomaticTest.cpp.obj	43f6a361fca15cec
+1302	1732	7093427169584158	cmake.exe	da80090fa03b1d76
+13	1066	7093430107906714	CMakeFiles/cmake.dir/Graph/GraphList.cpp.obj	2b13822c3e0da23f
+1067	1380	7093430110953753	cmake.exe	da80090fa03b1d76
